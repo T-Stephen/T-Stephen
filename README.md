@@ -76,3 +76,8 @@ AI-powered real-time traffic signal optimization with:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=T-Stephen&label=Profile%20Views&color=red&style=for-the-badge" alt="profile views"/>
 </p>
+
+---
+
+### 📅 Last Updated
+<p align="center">This profile README was last updated on <b>September 7, 2025</b> 🚀</p>
