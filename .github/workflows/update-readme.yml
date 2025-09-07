@@ -4,7 +4,7 @@ name: Update README
 on:
   schedule:
     - cron: '30 0 * * *'  # Runs daily at 6:00 AM IST
-  workflow_dispatch:       # Also allows manual trigger
+  workflow_dispatch:       # Allows manual trigger too
 
 jobs:
   update-readme:
@@ -18,7 +18,7 @@ jobs:
       # Step 2: Replace <!--DATE--> with current IST date & time
       - name: Update Last Updated Date
         run: |
-          DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S IST')
+          DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S')
           sed -i "s/<!--DATE-->/$DATE/" README.md
 
       # Step 3: Commit and push changes
