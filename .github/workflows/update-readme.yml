@@ -16,12 +16,10 @@ jobs:
       - name: Update Last Updated Date
         run: |
           DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S')
-          # Remove any trailing carriage returns (for Windows line endings)
-          tr -d '\r' < README.md > README.tmp && mv README.tmp README.md
-          # Replace <!--DATE--> (even if extra spaces) or append if not found
-          if grep -q '<!--DATE-->' README.md; then
-            sed -i "s/<!--DATE-->/$DATE/" README.md
-          else
+          # Replace <!--DATE--> reliably using perl
+          perl -pi -e "s/<!--DATE-->/$DATE/" README.md
+          # If placeholder doesn't exist, append date at bottom
+          if ! grep -q '<!--DATE-->' README.md; then
             echo -e "\nLast Updated: $DATE" >> README.md
           fi
 
@@ -30,5 +28,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update README with latest date" || echo "No changes to commit"
+          git commit -m "chore: update README with latest date" || echo "Forcing commit even if no changes"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/T-Stephen/T-Stephen.git
