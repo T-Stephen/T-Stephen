@@ -1,33 +1,30 @@
 name: Update README
 
-# Trigger workflow automatically every day at 6:00 AM IST
 on:
   schedule:
-    - cron: '30 0 * * *'  # Runs daily at 6:00 AM IST
-  workflow_dispatch:       # Allows manual trigger too
+    - cron: '30 0 * * *'  # daily at 6:00 AM IST
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Replace <!--DATE--> with current IST date & time
       - name: Update Last Updated Date
         run: |
           DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S')
-          # Replace <!--DATE--> in README.md
+          # Remove any trailing carriage returns (for Windows line endings)
+          tr -d '\r' < README.md > README.tmp && mv README.tmp README.md
+          # Replace <!--DATE--> (even if extra spaces) or append if not found
           if grep -q '<!--DATE-->' README.md; then
             sed -i "s/<!--DATE-->/$DATE/" README.md
           else
-            # If <!--DATE--> not found, append date at the bottom
             echo -e "\nLast Updated: $DATE" >> README.md
           fi
 
-      # Step 3: Commit and push changes
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
