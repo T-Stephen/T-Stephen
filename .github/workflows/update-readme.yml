@@ -1,29 +1,31 @@
 name: Update README
 
-# Allows manual trigger
+# Trigger workflow automatically every day at 6:00 AM IST
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '30 0 * * *'  # Runs daily at 6:00 AM IST
+  workflow_dispatch:       # Also allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout the repository
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Step 2: Update README (example: insert latest date)
-    - name: Update README
-      run: |
-        DATE=$(date '+%Y-%m-%d %H:%M:%S')
-        echo "Last updated: $DATE" > README.md
+      # Step 2: Replace <!--DATE--> with current IST date & time
+      - name: Update Last Updated Date
+        run: |
+          DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S IST')
+          sed -i "s/<!--DATE-->/$DATE/" README.md
 
-    # Step 3: Commit and push changes
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "chore: update README with latest date" || echo "No changes to commit"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/T-Stephen/T-Stephen.git
+      # Step 3: Commit and push changes
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update README with latest date" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/T-Stephen/T-Stephen.git
