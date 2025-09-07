@@ -13,7 +13,7 @@
 - 🚀 Passionate about **AI, Machine Learning, and Traffic Optimization Systems**  
 - 💡 Building innovative projects like **Smart Traffic Management with YOLOv8**  
 - 🌐 Portfolio Website: [t-stephen.github.io](https://t-stephen.github.io)  
-- 📫 Reach me at **tstephenraj001@gmail.com**
+- 📫 Reach me at **twinstephen001@gmail.com**
 
 ---
 
