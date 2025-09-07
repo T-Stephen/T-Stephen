@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://i.postimg.cc/T1rHQdR9/github-banner.png" alt="T Stephen Raj Banner" width="100%">
+  <img src="./STEVE_GitHub_Logo.png" alt="T Stephen Raj Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm T. Stephen Raj</h1>
