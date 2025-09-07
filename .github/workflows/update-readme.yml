@@ -19,7 +19,13 @@ jobs:
       - name: Update Last Updated Date
         run: |
           DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S')
-          sed -i "s/<!--DATE-->/$DATE/" README.md
+          # Replace <!--DATE--> in README.md
+          if grep -q '<!--DATE-->' README.md; then
+            sed -i "s/<!--DATE-->/$DATE/" README.md
+          else
+            # If <!--DATE--> not found, append date at the bottom
+            echo -e "\nLast Updated: $DATE" >> README.md
+          fi
 
       # Step 3: Commit and push changes
       - name: Commit and push changes
