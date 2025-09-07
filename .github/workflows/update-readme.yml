@@ -1,9 +1,12 @@
 name: Update README
 
 on:
+  push:                   # Runs whenever you push/commit
+    branches:
+      - main
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:         # lets you run it manually from Actions tab
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch:       # Allows manual runs
 
 jobs:
   update-readme:
