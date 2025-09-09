@@ -5,33 +5,29 @@ on:
     - cron: '30 0 * * *'   # Runs daily at 6:00 AM IST
   workflow_dispatch:        # Allow manual trigger too
 
+permissions:
+  contents: write    # ✅ Give Actions permission to push changes
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository with write permissions
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: true   # Needed to push using GITHUB_TOKEN
 
       # Step 2: Update the <!--DATE--> placeholder in README.md
       - name: Update Last Updated Date
         run: |
           DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S')
-          # Replace <!--DATE--> safely
-          perl -pi -e "s/<!--DATE-->/$DATE/" README.md
-          # If <!--DATE--> not found, append date at bottom
-          if ! grep -q '<!--DATE-->' README.md; then
-            echo -e "\nLast Updated: $DATE" >> README.md
-          fi
+          sed -i "s/<!--DATE-->/$DATE/" README.md || true
 
-      # Step 3: Commit and push changes back to main
+      # Step 3: Commit and push changes
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update README with latest date" || echo "No changes to commit"
+          git commit -m "chore: update README with latest date" || exit 0
           git push
