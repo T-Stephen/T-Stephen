@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # Allow manual trigger too
 
 permissions:
-  contents: write    # ✅ Give Actions permission to push changes
+  contents: write    # ✅ Allow pushing changes to repo
 
 jobs:
   update-readme:
@@ -20,7 +20,7 @@ jobs:
       # Step 2: Update the <!--DATE--> placeholder in README.md
       - name: Update Last Updated Date
         run: |
-          DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S')
+          DATE=$(TZ="Asia/Kolkata" date '+%B %d, %Y at %I:%M %p IST')
           sed -i "s/<!--DATE-->/$DATE/" README.md || true
 
       # Step 3: Commit and push changes
