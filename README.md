@@ -43,7 +43,7 @@ AI-powered real-time traffic signal optimization with:
   <a href="https://t-stephen.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-red?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://www.linkedin.com/in/t-stephen-raj/" target="_blank">
+  <a href="https://www.linkedin.com/in/stephen-raj-ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/T-Stephen" target="_blank">
