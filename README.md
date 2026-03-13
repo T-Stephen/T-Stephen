@@ -1,4 +1,4 @@
-<!-- Banner / Header -->
+<!-- Banner / Header --> 
 <p align="center">
   <img src="./STEVE_GitHub_Logo.png" alt="T Stephen Raj Banner" width="100%">
 </p>
