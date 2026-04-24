@@ -6,9 +6,9 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Visionary+AI+%26+Data+Science+Engineer;Architecting+Scalable+Cloud+Solutions;Building+Smart+Traffic+%26+City+Systems;Turning+Complex+Data+Into+Impact" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://t-stephen.github.io"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/stephen-raj-ai/"><img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
-  <a href="mailto:stephenbugi525@gmail.com"><img src="https://img.shields.io/badge/DIRECT_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+  <a href="https://t-stephen.github.io" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/stephen-raj-ai/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/DIRECT_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=T-Stephen&label=SYSTEM_ACCESS_COUNT&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
@@ -63,6 +63,13 @@
   <a href="https://github.com/T-Stephen/taste-the-best"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=taste-the-best&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" width="48%"></a>
 </div>
 
+<br>
+
+> **[ 🩺 MedInsight-AI ]** - Advanced healthcare analytics and AI-driven insight generation.
+> **[ 🏘️ FixMyArea ]** - Smart community maintenance platform with AI-driven priority sorting.
+> **[ 🔍 QueryVantage ]** - Intelligent MQL data engine integrating Gemini API with MongoDB.
+> **[ 🍳 Taste the Best ]** - A high-availability cloud culinary platform engineered and deployed utilizing scalable AWS EC2 infrastructure.
+
 ---
 
 ### 📊 Elite Analytics & Contributions (Live Updating)
@@ -93,7 +100,7 @@
 
 <div align="center">
 
-**[ 📡 INITIATING DAILY INSPIRATION PROTOCOL ]**
+**[ 📡  QUOTE OF THE DAY ]**
 
 <a href="https://github.com/T-Stephen"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote of the Day"></a>
 
