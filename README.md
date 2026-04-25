@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://t-stephen.github.io" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/stephen-raj-ai/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/DIRECT_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EXECUTIVE_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=T-Stephen&label=SYSTEM_ACCESS_COUNT&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
@@ -28,24 +28,24 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🚀 Executive Summary</h3>
-      <p>I am a 3rd-year <b>B.Tech AI & Data Science</b> student at SSMIET (Class of 2027) with a CGPA of <kbd>8</kbd>. I specialize in bridging the gap between theoretical AI and highly scalable, real-world applications.</p>
-      <p>My core engineering philosophy revolves around <b>Computer Vision, Generative AI (LLMs), and MLOps</b>, integrating cutting-edge models into robust cloud architectures.</p>
-      <h3>🏆 Milestones</h3>
+      <p>I am a B.Tech AI & Data Science engineer at SSMIET (Class of 2027) with a CGPA of <kbd>8</kbd>. My focus is bridging the gap between theoretical machine learning and highly scalable, production-ready cloud applications.</p>
+      <p>My core engineering philosophy revolves around <b>Computer Vision, Generative AI (LLMs), and MLOps</b>—building systems that don't just process data, but drive real-world operational efficiency.</p>
+      
+      <h3>🎯 Strategic Objectives (2026)</h3>
       <ul>
-        <li><b>Data Science Intern</b> @ Big Bucks Innovation</li>
-        <li>Architected an emergency-override <b>AI Traffic System</b></li>
-        <li>Solo Developer of scalable MQL Engines via <b>Gemini API</b></li>
+        <li><b>Targeting:</b> AWS Certified AI Practitioner (June 2026)</li>
+        <li><b>Scaling:</b> Enterprise-level prompt engineering and MongoDB aggregations.</li>
       </ul>
     </td>
     <td width="45%" valign="top">
       <h3>🛠️ Tech Arsenal</h3>
-      <p><b>AI & Data Engineering</b></p>
+      <p><b>AI, ML & Data Engineering</b></p>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,scikit" /></a>
       <br><br>
-      <p><b>Cloud, Data & Architecture</b></p>
+      <p><b>Cloud Infrastructure & Databases</b></p>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,mongo,mysql" /></a>
       <br><br>
-      <p><b>Frontend & Version Control</b></p>
+      <p><b>System Architecture & Version Control</b></p>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,git,github" /></a>
     </td>
   </tr>
@@ -65,14 +65,14 @@
 
 <br>
 
-> **[ 🩺 MedInsight-AI ]** - Advanced healthcare analytics and AI-driven insight generation.
-> **[ 🏘️ FixMyArea ]** - Smart community maintenance platform with AI-driven priority sorting.
-> **[ 🔍 QueryVantage ]** - Intelligent MQL data engine integrating Gemini API with MongoDB.
-> **[ 🍳 Taste the Best ]** - A high-availability cloud culinary platform engineered and deployed utilizing scalable AWS EC2 infrastructure.
+> **[ 🩺 MedInsight-AI ]** - Architected an advanced healthcare analytics engine for rapid AI-driven insight generation.
+> **[ 🏘️ FixMyArea ]** - Developed a smart community platform utilizing AI-driven priority sorting for civic infrastructure.
+> **[ 🔍 QueryVantage ]** - Engineered an intelligent MQL data pipeline integrating the Gemini API directly with MongoDB.
+> **[ 🍳 Taste the Best ]** - Deployed a high-availability culinary SaaS platform utilizing highly scalable AWS EC2 infrastructure.
 
 ---
 
-### 📊 Elite Analytics & Contributions (Live Updating)
+### 📊 Elite Analytics & Contributions
 
 <div align="center">
 
@@ -98,7 +98,9 @@
 
 <div align="center">
 
-**[ 📡 QUOTE OF THE DAY ]**
+**[ 🤝 LET'S BUILD THE FUTURE ]**
+
+*Open for high-impact roles, architectural discussions, and open-source collaborations.*
 
 <a href="https://github.com/T-Stephen"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote of the Day"></a>
 
