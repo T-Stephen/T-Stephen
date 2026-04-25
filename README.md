@@ -14,7 +14,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EXECUTIVE_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&logoSize=auto" alt="Email"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=T-Stephen&label=SYSTEM_ACCESS_COUNT&color=00E5FF&style=for-the-badge&base=0D1117" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=T-Stephen&label=SYSTEM_ACCESS_COUNT&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
@@ -30,7 +30,7 @@
   <tr>
     <td width="55%" valign="top">
       <br>
-      <p>I am a B.Tech AI & Data Science engineer at SSMIET (Class of 2027) operating with a <kbd>8</kbd> CGPA. My focus is bridging the gap between theoretical machine learning and highly scalable, production-ready cloud applications.</p>
+      <p>I am a B.Tech AI & Data Science engineer at SSMIET (Class of 2027) operating with a <kbd>7.64</kbd> CGPA. My focus is bridging the gap between theoretical machine learning and highly scalable, production-ready cloud applications.</p>
       <p>My core engineering philosophy revolves around <b>Computer Vision, Generative AI, and MLOps</b>—architecting systems that don't just process data, but drive real-world operational efficiency.</p>
       <br>
       <b>🎯 Strategic Objectives (2026)</b>
