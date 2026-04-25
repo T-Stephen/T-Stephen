@@ -28,7 +28,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🚀 Executive Summary</h3>
-      <p>I am a 3rd-year <b>B.Tech AI & Data Science</b> student at SSMIET (Class of 2027) with a CGPA of <kbd>7.64</kbd>. I specialize in bridging the gap between theoretical AI and highly scalable, real-world applications.</p>
+      <p>I am a 3rd-year <b>B.Tech AI & Data Science</b> student at SSMIET (Class of 2027) with a CGPA of <kbd>8</kbd>. I specialize in bridging the gap between theoretical AI and highly scalable, real-world applications.</p>
       <p>My core engineering philosophy revolves around <b>Computer Vision, Generative AI (LLMs), and MLOps</b>, integrating cutting-edge models into robust cloud architectures.</p>
       <h3>🏆 Milestones</h3>
       <ul>
