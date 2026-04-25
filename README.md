@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=800&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=STEPHEN+RAJ+T" alt="Stephen Raj T" /></a>
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Visionary+AI+%26+Data+Science+Engineer;Architecting+Scalable+Cloud+Solutions;Building+Smart+Traffic+%26+City+Systems;Turning+Complex+Data+Into+Impact" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Visionary+AI+%26+Data+Science+Engineer;Architecting+Scalable+Cloud+Solutions;Building+Smart+Traffic+%26+City+Systems;Turning+Complex+Data+Into+Impact" alt="Typing SVG" /></a>
 
 <br>
 
@@ -20,61 +20,56 @@
 
 > *"AI is not about replacing humans; it's about <kbd><b>augmenting intelligence</b></kbd> to upgrade reality."*
 
-<br>
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=THE+ARCHITECT'S+BLUEPRINT" alt="Blueprint Header" />
+
 </div>
-
----
-
-### 🌌 The Architect's Blueprint
 
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 Executive Summary</h3>
+      <br>
       <p>I am a B.Tech AI & Data Science engineer at SSMIET (Class of 2027) operating with a <kbd>8</kbd> CGPA. My focus is bridging the gap between theoretical machine learning and highly scalable, production-ready cloud applications.</p>
       <p>My core engineering philosophy revolves around <b>Computer Vision, Generative AI, and MLOps</b>—architecting systems that don't just process data, but drive real-world operational efficiency.</p>
-      <h3>🎯 Strategic Objectives (2026)</h3>
+      <br>
+      <b>🎯 Strategic Objectives (2026)</b>
       <ul>
         <li><b>Targeting:</b> AWS Certified AI Practitioner (June 2026)</li>
         <li><b>Scaling:</b> Enterprise-level prompt engineering and MongoDB aggregations.</li>
       </ul>
     </td>
-    <td width="45%" valign="top">
-      <h3>🛠️ Tech Arsenal</h3>
-      <p><b>AI, ML & Data Engineering</b></p>
+    <td width="45%" valign="top" align="center">
+      <br>
+      <b>AI, ML & Data Engineering</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,scikit" /></a><br><br>
-      <p><b>Cloud Infrastructure & Databases</b></p>
+      <b>Cloud Infrastructure & Databases</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,mongo,mysql" /></a><br><br>
-      <p><b>System Architecture & Version Control</b></p>
+      <b>System Architecture & Version Control</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,git,github" /></a>
     </td>
   </tr>
 </table>
 
----
-
-### ⚙️ Featured Engineering & Architecture
-
-<div align="center">
-  <a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=MedInsight-AI&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%"></a>
-  <a href="https://github.com/T-Stephen/FixMyArea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=FixMyArea&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%"></a>
-  
-  <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=ai-mql-engine&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%"></a>
-  <a href="https://github.com/T-Stephen/taste-the-best"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=taste-the-best&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%"></a>
-</div>
-
 <br>
 
-> **[ 🩺 MedInsight-AI ]** - Architected an advanced healthcare analytics engine for rapid AI-driven insight generation.
-> **[ 🏘️ FixMyArea ]** - Developed a smart community platform utilizing AI-driven priority sorting for civic infrastructure.
-> **[ 🔍 QueryVantage ]** - Engineered an intelligent MQL data pipeline integrating the Gemini API directly with MongoDB.
-> **[ 🍳 Taste the Best ]** - Deployed a high-availability culinary SaaS platform utilizing highly scalable AWS EC2 infrastructure.
-
----
-
-### 📊 Elite Analytics & Live Telemetry
-
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=ENGINEERING+%26+ARCHITECTURE" alt="Engineering Header" />
+
+<br><br>
+
+<a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=MedInsight-AI&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
+  <a href="https://github.com/T-Stephen/FixMyArea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=FixMyArea&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
+  
+  <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=ai-mql-engine&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
+  <a href="https://github.com/T-Stephen/taste-the-best"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=taste-the-best&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
+
+<br><br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=ELITE+ANALYTICS+%26+TELEMETRY" alt="Analytics Header" />
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="100%" alt="Live Activity Graph" />
 
@@ -92,11 +87,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="60%" alt="Top Languages" />
 
-</div>
-
----
-
-<div align="center">
+<br><br><br>
 
 **[ 🤝 OPEN FOR ARCHITECTURAL DISCUSSIONS & HIGH-IMPACT ROLES ]**
 
