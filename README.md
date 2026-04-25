@@ -79,12 +79,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <br>
-  <img src="YOUR_IMAGE_LINK_HERE.png" width="95%" style="border-radius: 10px; border: 1px solid #00E5FF;" alt="System Architecture">
-  <br><br>
-</div>
-
 <br>
 
 <div align="center">
