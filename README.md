@@ -2,7 +2,7 @@
 
 <img src="./STEVE_GitHub_Logo.png" alt="T Stephen Raj Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 4px 15px rgba(0, 229, 255, 0.3);">
 
-#  STEPHEN RAJ T
+# STEPHEN RAJ T
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Visionary+AI+%26+Data+Science+Engineer;Architecting+Scalable+Cloud+Solutions;Building+Smart+Traffic+%26+City+Systems;Turning+Complex+Data+Into+Impact" alt="Typing SVG" /></a>
 
 <p align="center">
@@ -91,9 +91,12 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
-
 <a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=dark&font=Fira%20Code&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
+<a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=stephenbip6z&theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" alt="Top Languages" />
 
 </div>
 
@@ -101,7 +104,7 @@
 
 <div align="center">
 
-**[ 📡 QUOTE OF THE DAY ]**
+**[ 📡QUOTE OF THE DAY ]**
 
 <a href="https://github.com/T-Stephen"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote of the Day"></a>
 
