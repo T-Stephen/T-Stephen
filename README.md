@@ -76,12 +76,6 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=dracula&no-bg=true&margin-w=15" alt="T-Stephen Trophies" />
-</a>
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&theme=react&hide_border=true&bg_color=0D1117" width="100%" alt="Live Activity Graph" />
 
 <br><br>
@@ -92,7 +86,7 @@
 <br><br>
 
 <a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=dark&font=Fira%20Code&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
-<a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=stephenbip6z&theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
+<a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://gfgstatscard.vercel.app/stephenbip6z?theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
 
 <br><br>
 
@@ -104,7 +98,7 @@
 
 <div align="center">
 
-**[ 📡QUOTE OF THE DAY ]**
+**[ 📡 QUOTE OF THE DAY ]**
 
 <a href="https://github.com/T-Stephen"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote of the Day"></a>
 
