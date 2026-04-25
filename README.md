@@ -2,8 +2,9 @@
 
 <img src="./STEVE_GitHub_Logo.png" alt="T Stephen Raj Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 4px 15px rgba(0, 229, 255, 0.3);">
 
-# STEPHEN RAJ T
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Visionary+AI+%26+Data+Science+Engineer;Architecting+Scalable+Cloud+Solutions;Building+Smart+Traffic+%26+City+Systems;Turning+Complex+Data+Into+Impact" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=STEPHEN+RAJ+T" alt="Typing SVG" /></a>
+
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Visionary+AI+%26+Data+Science+Engineer;Architecting+Scalable+Cloud+Solutions;Building+Smart+Traffic+%26+City+Systems;Turning+Complex+Data+Into+Impact" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://t-stephen.github.io" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
@@ -28,9 +29,8 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🚀 Executive Summary</h3>
-      <p>I am a B.Tech AI & Data Science engineer at SSMIET (Class of 2027) with a CGPA of <kbd>8</kbd>. My focus is bridging the gap between theoretical machine learning and highly scalable, production-ready cloud applications.</p>
+      <p>I am a B.Tech AI & Data Science engineer at SSMIET (Class of 2027) with a CGPA of <kbd>7.64</kbd>. My focus is bridging the gap between theoretical machine learning and highly scalable, production-ready cloud applications.</p>
       <p>My core engineering philosophy revolves around <b>Computer Vision, Generative AI (LLMs), and MLOps</b>—building systems that don't just process data, but drive real-world operational efficiency.</p>
-      
       <h3>🎯 Strategic Objectives (2026)</h3>
       <ul>
         <li><b>Targeting:</b> AWS Certified AI Practitioner (June 2026)</li>
@@ -40,11 +40,9 @@
     <td width="45%" valign="top">
       <h3>🛠️ Tech Arsenal</h3>
       <p><b>AI, ML & Data Engineering</b></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,scikit" /></a>
-      <br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,scikit" /></a><br><br>
       <p><b>Cloud Infrastructure & Databases</b></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,mongo,mysql" /></a>
-      <br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,mongo,mysql" /></a><br><br>
       <p><b>System Architecture & Version Control</b></p>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,git,github" /></a>
     </td>
