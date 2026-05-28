@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 1. HERO SECTION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://i.pinimg.com/originals/03/fb/ec/03fbeca15c328db09a96eecbd8ba89f2.gif" width="100%" style="border-radius: 12px; margin-bottom: 30px; box-shadow: 0px 10px 40px rgba(212, 175, 55, 0.25);" alt="Elite AI Environment">
 
 <a href="https://git.io/typing-svg">
@@ -17,35 +16,31 @@
 
 <br><br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 2. ANIMATED TYPING EFFECT ━━━━━━━━━━━━━━━━━━━━━━ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1500&color=C1121F&center=true&vCenter=true&width=800&lines=AI+Architect;Computer+Vision+Engineer;YOLOv8+Developer;Intelligent+Systems+Creator;Real-Time+AI+Engineer;Futuristic+Technology+Builder;Innovation+Driven+Developer;Building+the+Future+with+AI" alt="Roles" />
 </a>
 
 <br><br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 10. CONNECT SECTION (TOP) ━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
   <a href="https://github.com/T-Stephen" target="_blank"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=D4AF37&border=D4AF37" alt="GitHub"/></a>
-  <a href="https://t-stephen-ai-portfolio.web.app" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio"/></a>
+  <a href="https://t-stephen.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/stephen-raj-ai/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
-  <a href="mailto:tstephenraj001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-050505?style=for-the-badge&logo=kaggle&logoColor=D4AF37" alt="Kaggle"/></a>
+  <a href="mailto:stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
+  <a href="https://www.kaggle.com/stephenrajt" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-050505?style=for-the-badge&logo=kaggle&logoColor=D4AF37" alt="Kaggle"/></a>
   <a href="https://leetcode.com/u/StephenRaj-T/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-050505?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode"/></a>
 </p>
 
-<!-- LUXURY DIVIDER -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=40&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Divider" />
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 3. ABOUT ME SECTION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <table style="background-color: #0B0B0F; border: 1px solid #D4AF37; border-radius: 12px; width: 100%; box-shadow: 0px 0px 25px rgba(212, 175, 55, 0.1);">
   <tr>
     <td width="55%" valign="top" style="padding: 30px;">
       <h2 style="color: #D4AF37; font-family: 'Cinzel', serif; margin-top: 0;">» ARCHITECTURE_OVERVIEW</h2>
       <p style="color: #E5E4E2; font-size: 15px; line-height: 1.8; font-family: 'Montserrat', sans-serif;">
-        I am a visionary <b>AI & Data Science Undergrad</b> (Class of 2027) operating with a 7.64 CGPA, deeply passionate about translating futuristic AI concepts into tangible, real-world architecture. My engineering philosophy blends elite technical execution with unbounded creativity, focusing exclusively on designing impactful technologies that redefine the boundaries of human-machine interaction.
+        I am a creator of intelligent systems, deeply passionate about translating futuristic AI concepts into tangible, real-world architecture. My engineering philosophy blends visionary creativity with elite technical execution, focusing exclusively on designing impactful technologies that redefine the boundaries of human-machine interaction.
       </p>
       <p style="color: #E5E4E2; font-size: 15px; line-height: 1.8; font-family: 'Montserrat', sans-serif;">
         By specializing in advanced computer vision and real-time innovation, I architect next-generation AI solutions that do not just process data, but actively perceive, decide, and optimize. I am here to turn revolutionary ideas into intelligent reality.
@@ -67,7 +62,6 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 8. ACHIEVEMENTS SECTION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://img.shields.io/badge/AI_ARCHITECT-050505?style=for-the-badge&logo=git&logoColor=D4AF37&border=D4AF37" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/COMPUTER_VISION_ENGINEER-050505?style=for-the-badge&logo=git&logoColor=D4AF37&border=D4AF37" alt="Computer Vision"/>
@@ -80,7 +74,6 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 4. ULTRA PREMIUM TECH STACK ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=60&lines=TECHNOLOGY+ARSENAL" alt="Tech Stack Header" />
 </div>
@@ -93,7 +86,7 @@
     </td>
     <td style="padding: 25px; border-bottom: 1px solid #2A2A2A;">
       <h4 style="color: #D4AF37; font-family: 'Cinzel', serif; letter-spacing: 2px; margin-bottom: 15px;">CLOUD & DATABASES</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,firebase,mongo,mysql&theme=dark" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase,mongo,mysql&theme=dark" /></a>
     </td>
   </tr>
   <tr>
@@ -110,7 +103,6 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 5. FEATURED PROJECTS ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=60&lines=ELITE+ENGINEERING+PORTFOLIO" alt="Projects Header" />
 </div>
@@ -152,56 +144,42 @@
     <td colspan="2" valign="top" style="background-color: #0B0B0F; padding: 30px; border: 1px solid #C1121F; border-radius: 12px; box-shadow: 0px 5px 30px rgba(193, 18, 31, 0.2);">
       <h3 style="color: #D4AF37; font-family: 'Cinzel', serif; margin-top: 0; text-align: center; letter-spacing: 2px;">🌐 AI Portfolio Website</h3>
       <p style="color: #E5E4E2; font-size: 15px; line-height: 1.7; font-family: 'Montserrat', sans-serif; text-align: center;">An elite, ultra-luxury developer interface engineered with 3D glassmorphism elements, custom high-performance animations, and a visionary aesthetic.</p>
-      <p align="center"><a href="https://t-stephen-ai-portfolio.web.app"><img src="https://img.shields.io/badge/ACCESS_LIVE_SYSTEM-C1121F?style=for-the-badge&logo=vercel&logoColor=F8F8F8" /></a></p>
+      <p align="center"><a href="https://t-stephen.github.io/"><img src="https://img.shields.io/badge/ACCESS_LIVE_SYSTEM-C1121F?style=for-the-badge&logo=vercel&logoColor=F8F8F8" /></a></p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 6. ADVANCED ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=60&lines=GLOBAL+TELEMETRY+%26+ANALYTICS" alt="Analytics Header" />
 
   <br><br>
 
-  <!-- GITHUB TROPHIES (Gold/Ruby Theme) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=onedark&no-bg=true&no-frame=true&margin-w=15&column=7&title=D4AF37&text=E5E4E2" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7" alt="Trophies" />
   </a>
 
   <br><br>
 
-  <!-- GITHUB STATS & STREAK -->
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&icon_color=C1121F&border_color=D4AF37&hide_border=false" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=050505&stroke=D4AF37&ring=C1121F&fire=C1121F&currStreakNum=D4AF37&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&border=D4AF37" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&theme=dark&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&icon_color=C1121F&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&theme=dark&background=050505&hide_border=true" width="49%" alt="GitHub Streak" />
   
   <br><br>
   
-  <!-- TOP LANGUAGES & ACTIVITY GRAPH -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&border_color=D4AF37" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=D4AF37&point=C1121F&border=D4AF37" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=dark&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&hide_border=true&cache_seconds=86400" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=D4AF37&point=C1121F&hide_border=true" width="49%" alt="Activity Graph" />
 
-  <br><br>
+  <br><br><br>
 
-  <!-- ━━━━━━━━━━━━━━━━━━━━━━ 7. SNAKE ANIMATION ━━━━━━━━━━━━━━━━━━━━━━ -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-Stephen/T-Stephen/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/T-Stephen/T-Stephen/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-  </picture>
-  
-  <br><br>
-
-  <!-- ━━━━━━━━━━━━━━━━━━━━━━ 11. FUTURISTIC QUOTE ━━━━━━━━━━━━━━━━━━━━━━ -->
   <a href="https://github.com/T-Stephen">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=050505&text_color=E5E4E2&quote_color=D4AF37&author_color=C1121F" alt="Dynamic Tech Quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Tech Quote">
   </a>
 
   <br><br><br>
   <h3 style="color: #D4AF37; font-family: 'Cinzel', serif; font-style: italic; letter-spacing: 1px;">“The future belongs to those who engineer intelligence into reality.”</h3>
   <br>
 
-  <!-- ━━━━━━━━━━━━━━━━━━━━━━ 12. PREMIUM FOOTER ━━━━━━━━━━━━━━━━━━━━━━ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer&text=Engineering%20Intelligence%20Beyond%20Tomorrow&fontColor=050505&fontSize=26&fontAlignY=40" alt="Footer"/>
 
 </div>
