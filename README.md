@@ -40,7 +40,7 @@
     <td width="55%" valign="top" style="padding: 30px;">
       <h2 style="color: #D4AF37; font-family: 'Cinzel', serif; margin-top: 0;">» ARCHITECTURE_OVERVIEW</h2>
       <p style="color: #E5E4E2; font-size: 15px; line-height: 1.8; font-family: 'Montserrat', sans-serif;">
-        I am a creator of intelligent systems, deeply passionate about translating futuristic AI concepts into tangible, real-world architecture. My engineering philosophy blends visionary creativity with elite technical execution, focusing exclusively on designing impactful technologies that redefine the boundaries of human-machine interaction.
+        I am a visionary <b>AI & Data Science Undergrad</b> (Class of 2027) operating with a 7.64 CGPA, deeply passionate about translating futuristic AI concepts into tangible, real-world architecture. My engineering philosophy blends elite technical execution with unbounded creativity, focusing exclusively on designing impactful technologies that redefine the boundaries of human-machine interaction.
       </p>
       <p style="color: #E5E4E2; font-size: 15px; line-height: 1.8; font-family: 'Montserrat', sans-serif;">
         By specializing in advanced computer vision and real-time innovation, I architect next-generation AI solutions that do not just process data, but actively perceive, decide, and optimize. I am here to turn revolutionary ideas into intelligent reality.
@@ -114,14 +114,14 @@
       <p style="color: #E5E4E2; font-size: 14px; line-height: 1.7; font-family: 'Montserrat', sans-serif;">An elite, edge-deployed intelligent system designed to dynamically intercept and override urban traffic grids to eliminate emergency bottlenecks.</p>
       <p style="font-size: 13px;"><b style="color: #C1121F;">Tech Stack:</b> <span style="color: #F7E7CE;">Python, Deep Learning, OpenCV</span><br>
       <b style="color: #C1121F;">Vision:</b> <span style="color: #F7E7CE;">Autonomous smart-city integration.</span></p>
-      <a href="https://github.com/T-Stephen"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+      <a href="https://github.com/T-Stephen/Smart-Traffic-AI"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
     </td>
     <td width="50%" valign="top" style="background-color: #050505; padding: 30px; border: 1px solid #7A0019; border-radius: 12px; box-shadow: 0px 5px 25px rgba(193, 18, 31, 0.15);">
       <h3 style="color: #D4AF37; font-family: 'Cinzel', serif; margin-top: 0; letter-spacing: 1px;">🤖 YOLOv8 Ambulance Detection</h3>
       <p style="color: #E5E4E2; font-size: 14px; line-height: 1.7; font-family: 'Montserrat', sans-serif;">A highly specialized computer vision inference model trained for hyper-fast, real-time identification of medical vehicles in dense urban streams.</p>
       <p style="font-size: 13px;"><b style="color: #C1121F;">Tech Stack:</b> <span style="color: #F7E7CE;">PyTorch, YOLOv8, Real-Time Inference</span><br>
       <b style="color: #C1121F;">Vision:</b> <span style="color: #F7E7CE;">Microsecond deterministic decision logic.</span></p>
-      <a href="https://github.com/T-Stephen"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+      <a href="https://github.com/T-Stephen/Smart-Traffic-AI"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
     </td>
   </tr>
   <tr>
@@ -130,14 +130,14 @@
       <p style="color: #E5E4E2; font-size: 14px; line-height: 1.7; font-family: 'Montserrat', sans-serif;">A generative semantic reasoning engine operating as a bridge between human natural language and complex operational database execution.</p>
       <p style="font-size: 13px;"><b style="color: #D4AF37;">Tech Stack:</b> <span style="color: #F7E7CE;">Python, LLMs, NLP, MongoDB</span><br>
       <b style="color: #D4AF37;">Vision:</b> <span style="color: #F7E7CE;">Seamless human-machine cognitive pipelines.</span></p>
-      <a href="https://github.com/T-Stephen"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+      <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
     </td>
     <td width="50%" valign="top" style="background-color: #050505; padding: 30px; border: 1px solid #D4AF37; border-radius: 12px; box-shadow: 0px 5px 25px rgba(212, 175, 55, 0.1);">
       <h3 style="color: #F7E7CE; font-family: 'Cinzel', serif; margin-top: 0; letter-spacing: 1px;">📊 Intelligent Analytics Dashboard</h3>
       <p style="color: #E5E4E2; font-size: 14px; line-height: 1.7; font-family: 'Montserrat', sans-serif;">A premium geo-spatial data visualization platform utilizing AI-driven priority sorting to autonomously escalate critical system anomalies.</p>
       <p style="font-size: 13px;"><b style="color: #D4AF37;">Tech Stack:</b> <span style="color: #F7E7CE;">React, Node.js, Firebase</span><br>
       <b style="color: #D4AF37;">Vision:</b> <span style="color: #F7E7CE;">Predictive decay modeling and visualization.</span></p>
-      <a href="https://github.com/T-Stephen"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+      <a href="https://github.com/T-Stephen/FixMyArea"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
     </td>
   </tr>
   <tr>
@@ -157,17 +157,17 @@
   <br><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=onedark&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
   </a>
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&theme=dark&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&icon_color=C1121F&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&theme=dark&background=050505&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&icon_color=C1121F&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=050505&stroke=D4AF37&ring=C1121F&fire=C1121F&currStreakNum=D4AF37&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true" width="49%" alt="GitHub Streak" />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=dark&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&hide_border=true&cache_seconds=86400" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&hide_border=true&cache_seconds=86400" width="49%" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=D4AF37&point=C1121F&hide_border=true" width="49%" alt="Activity Graph" />
 
   <br><br><br>
