@@ -129,9 +129,9 @@
 
 <br><br>
 
-<!-- STABLE EXTERNAL API INTEGRATIONS (Native themes applied to prevent GitHub Camo blocks) -->
-<a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=tokyonight&font=Poppins&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
-<a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://gfgstatscard.vercel.app/stephenbip6z?theme=tokyonight" width="49%" alt="Live GeeksForGeeks Stats" /></a>
+<!-- STABLE EXTERNAL API INTEGRATIONS (Forced Dark Mode) -->
+<a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=dark&font=Poppins&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
+<a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://gfgstatscard.vercel.app/stephenbip6z?theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
 
 <br><br><br>
 
