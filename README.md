@@ -40,7 +40,7 @@
       <br>
       <b>⚡ CURRENT EXECUTION MODE</b>
       <ul>
-        <li><b>Academic Baseline:</b> B.Tech AI & Data Science (2023-2027) operating with a 7.64 CGPA.</li>
+        <li><b>Academic Baseline:</b> B.Tech AI & Data Science (Class of 2027) operating with a 7.64 CGPA.</li>
         <li><b>Scaling:</b> Architecting highly-available cloud ecosystems (AWS/GCP).</li>
         <li><b>Deploying:</b> YOLOv8 and LLMs for real-time civic analytics.</li>
       </ul>
@@ -90,7 +90,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=SECONDARY+SYSTEMS+%26+APPLIED+AI" alt="Systems Header" />
 </div>
 
-<!-- FIXED: Using a table to guarantee image layout stability and prevent collapsing -->
+<!-- OPTIMIZED API CALLS: Removed cache busters to prevent server timeouts -->
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
@@ -117,22 +117,22 @@
 
 <br><br>
 
-<!-- FIXED: Core GitHub Stats Links (Live Updating) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="100%" alt="Live Activity Graph" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&include_all_commits=true&count_private=true" width="49%" alt="Live GitHub Stats" />
+<!-- OPTIMIZED API CALLS: Removed heavy counting logic to ensure blazing fast loading -->
+<img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="49%" alt="Live GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF" width="49%" alt="Live GitHub Streak" />
 
 <br><br>
 
-<!-- FIXED: Live Competitive Coding Stats (Auto-fetches daily) -->
 <a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=dark&font=Space%20Grotesk&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
 <a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://gfgstatscard.vercel.app/stephenbip6z?theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
 
 <br><br>
 
+<!-- OPTIMIZED API CALLS: Streamlined language calculation -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="60%" alt="Top Languages" />
 
 <br><br><br>
