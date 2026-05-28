@@ -3,23 +3,27 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━ 1. HERO SECTION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://i.pinimg.com/originals/03/fb/ec/03fbeca15c328db09a96eecbd8ba89f2.gif" width="100%" style="border-radius: 12px; margin-bottom: 30px; box-shadow: 0px 10px 40px rgba(57, 255, 20, 0.25);" alt="Elite AI Environment">
 
+<!-- 1st Line: Name (Neon Green) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=55&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=80&repeat=false&lines=STEPHEN+RAJ+T" alt="STEPHEN RAJ T" />
 </a>
 <br>
+
+<!-- 2nd Line: Inspiring Color (Champagne Gold) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=18&pause=2000&color=F7E7CE&center=true&vCenter=true&width=800&height=40&repeat=false&lines=Designing+Intelligent+Systems+Beyond+Tomorrow" alt="Designing Intelligent Systems Beyond Tomorrow" />
 </a>
 <br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=400&size=14&pause=2000&color=00E5FF;B200FF;FF007F;00E5FF&center=true&vCenter=true&width=800&height=30&repeat=true&lines=AI+Architect+•+Intelligent+Systems+Engineer+•+Computer+Vision+Developer;AI+Architect+•+Intelligent+Systems+Engineer+•+Computer+Vision+Developer;AI+Architect+•+Intelligent+Systems+Engineer+•+Computer+Vision+Developer" alt="Tagline" />
-</a>
 
+<!-- 3rd Line: Inspiring Aura Color (Electric Cyan) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=400&size=14&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&height=30&repeat=false&lines=AI+Architect+•+Intelligent+Systems+Engineer+•+Computer+Vision+Developer" alt="Tagline" />
+</a>
 <br><br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 2. ANIMATED TYPING EFFECT ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- 4th Line: Unique Rare Luxury Color (Liquid Gold) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&pause=1500&color=D4AF37&center=true&vCenter=true&width=800&repeat=false&lines=AI+Architect;Computer+Vision+Engineer;Intelligent+Systems+Engineer;YOLOv8+Developer;Real-Time+AI+Engineer;Futuristic+Technology+Builder;Innovation+Driven+Developer;Building+the+Future+with+AI" alt="Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&pause=1500&color=D4AF37&center=true&vCenter=true&width=800&repeat=false&lines=Futuristic+Technology+Builder;Innovation+Driven+Developer;Building+the+Future+with+AI" alt="Roles" />
 </a>
 
 <br><br>
@@ -165,13 +169,13 @@
 
   <br><br>
 
-  <!-- HIGHLY STABLE STREAK API (Bypassing GitHub Camo Cache with forced v=2) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=050505&stroke=39FF14&ring=C1121F&fire=C1121F&currStreakNum=39FF14&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true&v=2" width="60%" alt="GitHub Streak" />
+  <!-- HIGHLY STABLE STREAK API -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=050505&stroke=39FF14&ring=C1121F&fire=C1121F&currStreakNum=39FF14&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true&v=3" width="60%" alt="GitHub Streak" />
   
   <br><br>
   
-  <!-- HIGHLY STABLE ACTIVITY GRAPH (Bypassing GitHub Camo Cache with forced v=2) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=39FF14&point=C1121F&hide_border=true&v=2" width="80%" alt="Activity Graph" />
+  <!-- HIGHLY STABLE ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=39FF14&point=C1121F&hide_border=true&v=3" width="80%" alt="Activity Graph" />
 
   <br><br>
 
