@@ -78,7 +78,8 @@
       <b>The Problem:</b> Static traffic control systems cause catastrophic delays in emergency medical response times.<br><br>
       <b>The Architecture:</b> An edge-deployed Computer Vision engine utilizing <b>YOLOv8</b> and OpenCV for real-time ambulance detection. Intercepts traffic grid logic to trigger automated emergency signal overrides.
       <br><br>
-      <a href="https://github.com/T-Stephen/Traffic-Optimization" target="_blank"><img src="https://img.shields.io/badge/Inspect_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Traffic AI"/></a>
+      <!-- UPDATED TO POINT EXACTLY TO YOUR NEWLY RENAMED REPOSITORY -->
+      <a href="https://github.com/T-Stephen/Smart-Traffic-AI" target="_blank"><img src="https://img.shields.io/badge/Inspect_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Traffic AI"/></a>
     </td>
   </tr>
 </table>
