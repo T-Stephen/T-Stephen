@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 1. CINEMATIC HERO SECTION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://i.pinimg.com/originals/db/bb/a5/dbbba5ec0d38ec30114f738fc9d0092c.gif" width="100%" style="border-radius: 16px; margin-bottom: 35px; box-shadow: 0px 15px 50px rgba(15, 139, 141, 0.25);" alt="Luxury Emerald AI Environment">
 
 <a href="https://git.io/typing-svg">
@@ -17,14 +16,12 @@
 
 <br><br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 2. FLOATING TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=500&size=20&pause=1500&color=A5FFD6&center=true&vCenter=true&width=800&repeat=false&lines=AI+Architect;Computer+Vision+Engineer;Intelligent+Systems+Developer;Futuristic+Technology+Builder;Innovation+Driven+Engineer;Building+the+Future+with+AI" alt="Roles" />
 </a>
 
 <br><br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 10. LUXURY CONNECT PANEL ━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
   <a href="https://github.com/T-Stephen" target="_blank"><img src="https://img.shields.io/badge/GITHUB-040404?style=for-the-badge&logo=github&logoColor=A5FFD6&border=0F8B8D" alt="GitHub"/></a>
   <a href="https://t-stephen.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-040404?style=for-the-badge&logo=vercel&logoColor=A5FFD6" alt="Portfolio"/></a>
@@ -34,12 +31,10 @@
   <a href="https://leetcode.com/u/StephenRaj-T/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-040404?style=for-the-badge&logo=leetcode&logoColor=A5FFD6" alt="LeetCode"/></a>
 </p>
 
-<!-- HOLOGRAPHIC DIVIDER -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=900&size=20&pause=1000&color=0F8B8D&center=true&vCenter=true&width=800&height=40&repeat=false&lines=──────────────────────────────────────────────────" alt="Divider" />
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 3. LUXURY ABOUT ME (GLASSMORPHISM) ━━━━━━━━━━━━━━━━━━━━━━ -->
 <table style="background-color: #0F1115; border: 1px solid #0F8B8D; border-radius: 16px; width: 100%; box-shadow: 0px 10px 40px rgba(15, 139, 141, 0.15);">
   <tr>
     <td width="55%" valign="top" style="padding: 35px;">
@@ -67,7 +62,6 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 8. ELEGANT ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://img.shields.io/badge/AI_ARCHITECT-040404?style=for-the-badge&logo=git&logoColor=5BC0BE&border=5BC0BE" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/COMPUTER_VISION_ENGINEER-040404?style=for-the-badge&logo=git&logoColor=5BC0BE&border=5BC0BE" alt="Computer Vision"/>
@@ -80,7 +74,6 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 4. CINEMATIC TECH STACK ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=26&pause=1000&color=C6A769&center=true&vCenter=true&width=800&height=60&repeat=false&lines=TECHNOLOGY+ECOSYSTEM" alt="Tech Stack Header" />
 </div>
@@ -110,7 +103,6 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 5. PREMIUM PROJECT SHOWCASE ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=26&pause=1000&color=C6A769&center=true&vCenter=true&width=800&height=60&repeat=false&lines=ELITE+ENGINEERING+PORTFOLIO" alt="Projects Header" />
 </div>
@@ -159,38 +151,24 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 6. HOLOGRAPHIC GITHUB ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=26&pause=1000&color=C6A769&center=true&vCenter=true&width=800&height=60&repeat=false&lines=GLOBAL+TELEMETRY+%26+ANALYTICS" alt="Analytics Header" />
 
   <br><br>
 
-  <!-- GITHUB TROPHIES (Bypassing GitHub Camo Cache) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15&v=2" alt="Trophies" />
-  </a>
-
-  <br><br>
-
-  <!-- GITHUB STATS & STREAK (Bypassing GitHub Camo Cache) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&bg_color=040404&title_color=C6A769&text_color=F7F3E9&icon_color=5BC0BE&hide_border=true&v=2" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=040404&stroke=5BC0BE&ring=0F8B8D&fire=C6A769&currStreakNum=F7F3E9&sideNums=D9D9D9&sideLabels=D9D9D9&dates=D9D9D9&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=040404&stroke=5BC0BE&ring=0F8B8D&fire=C6A769&currStreakNum=F7F3E9&sideNums=D9D9D9&sideLabels=D9D9D9&dates=D9D9D9&hide_border=true" width="60%" alt="GitHub Streak" />
   
   <br><br>
   
-  <!-- TOP LANGUAGES & ACTIVITY GRAPH (Bypassing GitHub Camo Cache) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-Stephen&layout=compact&bg_color=040404&title_color=C6A769&text_color=F7F3E9&hide_border=true&v=2" width="49%" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=040404&color=F7F3E9&line=0F8B8D&point=5BC0BE&hide_border=true" width="80%" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- EXTERNAL INTEGRATIONS -->
   <a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=dark&font=Outfit&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
   <a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://gfgstatscard.vercel.app/stephenbip6z?theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
 
   <br><br><br>
 
-  <!-- ━━━━━━━━━━━━━━━━━━━━━━ 11. VISIONARY QUOTE ━━━━━━━━━━━━━━━━━━━━━━ -->
   <a href="https://github.com/T-Stephen">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Tech Quote">
   </a>
@@ -199,7 +177,6 @@
   <h3 style="color: #A5FFD6; font-family: 'Outfit', sans-serif; font-weight: 300; letter-spacing: 2px;">“The future belongs to those who engineer intelligence into reality.”</h3>
   <br>
 
-  <!-- ━━━━━━━━━━━━━━━━━━━━━━ 12. CINEMATIC FOOTER ━━━━━━━━━━━━━━━━━━━━━━ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F8B8D&height=120&section=footer&text=Engineering%20the%20Future%20Through%20Intelligent%20Innovation&fontColor=040404&fontSize=22&fontAlignY=40" alt="Footer"/>
 
 </div>
