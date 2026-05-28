@@ -1,9 +1,12 @@
 <div align="center">
 
+<!-- The 3D Floating Banner -->
 <img src="./STEVE_GitHub_Logo.png" alt="T Stephen Raj Banner" width="100%" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0px 4px 15px rgba(0, 229, 255, 0.2);">
 
+<!-- LUXURY FONT INJECTION: Cinzel Decorative for authoritative identity -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=800&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=STEPHEN+RAJ+T" alt="Stephen Raj T" /></a>
 
+<!-- VISIONARY HOOK: Space Grotesk -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Architecting+Intelligent+Systems+for+Smart+Cities;Engineering+Real-World+AI+Solutions;Turning+Complex+Data+Into+Scalable+Impact" alt="Typing SVG" /></a>
 
 <br>
@@ -14,6 +17,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EXECUTIVE_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&logoSize=auto" alt="Email"/></a>
 </p>
 
+<!-- System Telemetry Counter -->
 <img src="https://komarev.com/ghpvc/?username=T-Stephen&label=SYSTEM_ACCESS_COUNT&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
@@ -26,6 +30,7 @@
 
 </div>
 
+<!-- BULLETPROOF HTML MATRIX -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -33,11 +38,11 @@
       <p>I am an <b>AI Systems Architect & Data Engineer</b> bridging the gap between theoretical machine learning and highly scalable, production-ready civic infrastructure.</p>
       <p>My engineering philosophy is rooted in <b>Computer Vision, Scalable Architecture, and MLOps</b>. I don't just process data—I design intelligent systems that drive real-world operational efficiency and urban automation.</p>
       <br>
-      <b>⚡ CURRENT EXECUTION MODE (2026)</b>
+      <b>⚡ CURRENT EXECUTION MODE</b>
       <ul>
+        <li><b>Academic Baseline:</b> B.Tech AI & Data Science (2023-2027) operating with a 7.64 CGPA.</li>
         <li><b>Scaling:</b> Architecting highly-available cloud ecosystems (AWS/GCP).</li>
         <li><b>Deploying:</b> YOLOv8 and LLMs for real-time civic analytics.</li>
-        <li><b>Targeting:</b> AWS Certified AI Practitioner Certification.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
@@ -85,21 +90,34 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=SECONDARY+SYSTEMS+%26+APPLIED+AI" alt="Systems Header" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=MedInsight-AI&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
-  <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=ai-mql-engine&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
-  
-  <a href="https://github.com/T-Stephen/taste-the-best"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=taste-the-best&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
-  <a href="https://github.com/T-Stephen/FixMyArea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=FixMyArea&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=1" width="48%"></a>
-</div>
+<!-- FIXED: Using a table to guarantee image layout stability and prevent collapsing -->
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=MedInsight-AI&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=ai-mql-engine&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/T-Stephen/taste-the-best"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=taste-the-best&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/T-Stephen/FixMyArea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=FixMyArea&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+    </td>
+  </tr>
+</table>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=SYSTEM+TELEMETRY+%26+ANALYTICS" alt="Analytics Header" />
 
 <br><br>
 
+<!-- FIXED: Core GitHub Stats Links (Live Updating) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="100%" alt="Live Activity Graph" />
 
 <br><br>
@@ -109,6 +127,7 @@
 
 <br><br>
 
+<!-- FIXED: Live Competitive Coding Stats (Auto-fetches daily) -->
 <a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=dark&font=Space%20Grotesk&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
 <a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://gfgstatscard.vercel.app/stephenbip6z?theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
 
