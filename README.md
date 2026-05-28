@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ULTRA 3D HOLOGRAPHIC AI CORE BANNER -->
-<img src="https://i.pinimg.com/originals/79/11/9b/79119b9bc9953bf62725adcc691c26ba.gif" width="100%" style="border-radius: 15px; margin-bottom: 30px; box-shadow: 0px 10px 30px rgba(176, 38, 255, 0.4);" alt="3D Quantum AI Core">
+<!-- ULTRA 3D QUANTUM GOLD & NEON CYAN AI CORE BANNER -->
+<img src="https://i.pinimg.com/originals/c9/4f/73/c94f73c68a4933a017cb6e584501a3cd.gif" width="100%" style="border-radius: 15px; margin-bottom: 30px; box-shadow: 0px 10px 30px rgba(255, 215, 0, 0.3);" alt="3D Quantum AI Core">
 
-<!-- ELITE FONT INJECTION: Cinzel Decorative for authoritative identity -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=75&lines=STEPHEN+RAJ+T" alt="Stephen Raj T" /></a>
+<!-- ELITE FONT INJECTION: Cinzel Decorative for CEO-level authority -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=50&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=75&lines=STEPHEN+RAJ+T" alt="Stephen Raj T" /></a>
 
 <!-- VISIONARY HOOK: Space Grotesk in Neon Cyan -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Architecting+Intelligent+Systems+for+Smart+Cities;Bridging+Machine+Learning+with+Scalable+Cloud+Infrastructure;Turning+Complex+Data+Into+High-Impact+Reality" alt="Typing SVG" /></a>
@@ -12,9 +12,9 @@
 <br>
 
 <p align="center">
-  <a href="https://t-stephen.github.io" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-B026FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://t-stephen.github.io" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/stephen-raj-ai/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EXECUTIVE_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=B026FF" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stephenbugi525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EXECUTIVE_COMMS-0D1117?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
 </p>
 
 <!-- 3D Holographic Telemetry Counter -->
@@ -26,11 +26,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=B026FF&center=true&vCenter=true&width=800&height=60&lines=THE+ARCHITECT'S+BLUEPRINT" alt="Blueprint Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=THE+ARCHITECT'S+BLUEPRINT" alt="Blueprint Header" />
 
 </div>
 
-<!-- BULLETPROOF 3D HTML MATRIX: Guaranteed stable rendering -->
+<!-- UNBREAKABLE HTML MATRIX: Guaranteed stable rendering -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -41,8 +41,8 @@
       <b>⚡ CURRENT EXECUTION MODE (2026)</b>
       <ul>
         <li><b>Academic Baseline:</b> SSMIET (Class of 2027) operating with a 7.64 CGPA.</li>
-        <li><b>Scaling:</b> Architecting highly-available cloud ecosystems (AWS/GCP).</li>
-        <li><b>Deploying:</b> YOLOv8 and advanced LLMs for real-time civic analytics.</li>
+        <li><b>Industry Experience:</b> Data Science Intern @ Big Bucks Innovation (Chennai) — Engineered & tested enterprise ML data pipelines.</li>
+        <li><b>Deploying:</b> YOLOv8, IBM Granite, and AWS cloud ecosystems for real-time analytics.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
@@ -63,22 +63,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=FLAGSHIP+ARCHITECTURE" alt="Architecture Header" />
 </div>
 
-<!-- STABLE TABLE LAYOUT FOR DESCRIPTIONS -->
+<!-- HARDCODED UNBREAKABLE DESCRIPTIONS -->
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏙️ FixMyArea <br><sup><i>Smart Civic Infrastructure</i></sup></h3>
       <b>The Problem:</b> Urban maintenance reporting is historically reactive and heavily fragmented, leading to critical infrastructure decay.<br><br>
-      <b>The Architecture:</b> A centralized, geo-spatial reporting platform utilizing AI-driven priority sorting. It autonomously categorizes and escalates municipal issues based on real-time severity metrics.<br><br>
-      <b>Impact:</b> Predictive decay modeling mapping for automated municipal dispatch routing.
+      <b>The Architecture:</b> A centralized, geo-spatial reporting platform deployed on GitHub Pages, utilizing AI-driven priority sorting to autonomously escalate municipal issues based on real-time severity metrics.
       <br><br>
-      <a href="https://github.com/T-Stephen/FixMyArea" target="_blank"><img src="https://img.shields.io/badge/Inspect_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=B026FF" alt="FixMyArea"/></a>
+      <a href="https://github.com/T-Stephen/FixMyArea" target="_blank"><img src="https://img.shields.io/badge/Inspect_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="FixMyArea"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🚦 Smart Traffic AI <br><sup><i>Real-Time Urban Automation</i></sup></h3>
       <b>The Problem:</b> Static traffic control systems cause catastrophic delays in emergency medical response times.<br><br>
-      <b>The Architecture:</b> An edge-deployed Computer Vision engine utilizing <b>YOLOv8</b> for real-time ambulance detection. Intercepts traffic grid logic to trigger automated emergency signal overrides.<br><br>
-      <b>Impact:</b> Designed to drastically reduce intersection bottlenecks to save lives.
+      <b>The Architecture:</b> An edge-deployed Computer Vision engine utilizing <b>YOLOv8</b> and OpenCV for real-time ambulance detection. Intercepts traffic grid logic to trigger automated emergency signal overrides.
       <br><br>
       <a href="https://github.com/T-Stephen/Smart-Traffic-Management" target="_blank"><img src="https://img.shields.io/badge/Inspect_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Traffic AI"/></a>
     </td>
@@ -88,25 +86,33 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=B026FF&center=true&vCenter=true&width=800&height=60&lines=ENTERPRISE+SYSTEMS+%26+APPLIED+AI" alt="Systems Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=ENTERPRISE+SYSTEMS+%26+APPLIED+AI" alt="Systems Header" />
 </div>
 
-<!-- DUAL-TONE GLASSMORPHISM: Guaranteed stable image loading -->
-<table align="center" style="border: none;">
+<!-- UNBREAKABLE HARDCODED REPOSITORY GRID: Replaces the flaky APIs forever -->
+<table align="center" style="border: 1px solid #333; border-radius: 10px; width: 100%; text-align: center; background-color: #0D1117;">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=MedInsight-AI&bg_color=00000000&title_color=B026FF&text_color=E0E0E0&icon_color=00E5FF&show_icons=true&hide_border=true" width="100%"></a>
+    <td width="50%" style="padding: 20px; border: 1px solid #333;">
+      <h3 style="color: #FFD700; margin-bottom: 5px;">🩺 MedInsight-AI</h3>
+      <p style="color: #A0A0A0; font-size: 14px; margin-top: 0;">Advanced Healthcare Analytics & Clinical AI Assistant powered by IBM Granite.</p>
+      <a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://img.shields.io/badge/View_Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/Midas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=Midas&bg_color=00000000&title_color=00E5FF&text_color=E0E0E0&icon_color=B026FF&show_icons=true&hide_border=true" width="100%"></a>
+    <td width="50%" style="padding: 20px; border: 1px solid #333;">
+      <h3 style="color: #00E5FF; margin-bottom: 5px;">📈 MIDAS</h3>
+      <p style="color: #A0A0A0; font-size: 14px; margin-top: 0;">Enterprise FinTech Dashboard & Live Trading Analytics (JPMC Architecture).</p>
+      <a href="https://github.com/T-Stephen/Midas"><img src="https://img.shields.io/badge/View_Repository-FFD700?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=ai-mql-engine&bg_color=00000000&title_color=00E5FF&text_color=E0E0E0&icon_color=B026FF&show_icons=true&hide_border=true" width="100%"></a>
+    <td width="50%" style="padding: 20px; border: 1px solid #333;">
+      <h3 style="color: #00E5FF; margin-bottom: 5px;">🧠 AI-MQL-Engine</h3>
+      <p style="color: #A0A0A0; font-size: 14px; margin-top: 0;">Generative natural language to MongoDB Query Pipeline via Gemini API.</p>
+      <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://img.shields.io/badge/View_Repository-FFD700?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/global-disaster-tracker-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=global-disaster-tracker-ai&bg_color=00000000&title_color=B026FF&text_color=E0E0E0&icon_color=00E5FF&show_icons=true&hide_border=true" width="100%"></a>
+    <td width="50%" style="padding: 20px; border: 1px solid #333;">
+      <h3 style="color: #FFD700; margin-bottom: 5px;">🌍 Global Disaster Tracker</h3>
+      <p style="color: #A0A0A0; font-size: 14px; margin-top: 0;">Predictive Geospatial Analytics & Real-Time Crisis Management Engine.</p>
+      <a href="https://github.com/T-Stephen/global-disaster-tracker-ai"><img src="https://img.shields.io/badge/View_Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
   </tr>
 </table>
@@ -114,40 +120,19 @@
 <br><br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=OPEN+SOURCE+ACHIEVEMENTS" alt="Trophy Header" />
-
-<br>
-
-<!-- DUAL-TONE TROPHY MATRIX -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7&title=FFFFFF&text=00E5FF" alt="T-Stephen Trophies" />
-</a>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=SYSTEM+TELEMETRY+%26+ANALYTICS" alt="Analytics Header" />
 
 <br><br>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=B026FF&center=true&vCenter=true&width=800&height=60&lines=SYSTEM+TELEMETRY+%26+ANALYTICS" alt="Analytics Header" />
+<!-- OPTIMIZED API CALLS: Cache settings applied to prevent server timeouts -->
+<img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&bg_color=00000000&title_color=FFD700&text_color=E0E0E0&icon_color=00E5FF&hide_border=true&cache_seconds=86400" width="49%" alt="Live GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&hide_border=true&background=00000000&stroke=00E5FF&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="49%" alt="Live GitHub Streak" />
 
 <br><br>
 
-<!-- DUAL-TONE TELEMETRY MATRIX -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=00000000&color=B026FF&line=00E5FF&point=FFFFFF&hide_border=true" width="100%" alt="Live Activity Graph" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&bg_color=00000000&title_color=B026FF&text_color=E0E0E0&icon_color=00E5FF&hide_border=true" width="49%" alt="Live GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&hide_border=true&background=00000000&stroke=00E5FF&ring=B026FF&fire=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="49%" alt="Live GitHub Streak" />
-
-<br><br>
-
-<!-- EXTERNAL API INTEGRATIONS -->
+<!-- LEETCODE & GFG: Will automatically update within standard 24-48hr cache windows -->
 <a href="https://leetcode.com/u/StephenRaj-T/"><img src="https://leetcard.jacoblin.cool/StephenRaj-T?theme=dark&font=Space%20Grotesk&ext=activity" width="49%" alt="Live LeetCode Stats" /></a>
 <a href="https://www.geeksforgeeks.org/profile/stephenbip6z"><img src="https://gfgstatscard.vercel.app/stephenbip6z?theme=dark" width="49%" alt="Live GeeksForGeeks Stats" /></a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&bg_color=00000000&title_color=00E5FF&text_color=E0E0E0&hide_border=true" width="60%" alt="Top Languages" />
 
 <br><br><br>
 
@@ -157,6 +142,6 @@
 
 <a href="https://github.com/T-Stephen"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote of the Day"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer"/>
 
 </div>
