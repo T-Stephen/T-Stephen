@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- The 3D Floating Banner -->
-<img src="./STEVE_GitHub_Logo.png" alt="T Stephen Raj Banner" width="100%" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0px 4px 15px rgba(0, 229, 255, 0.2);">
+<!-- 3D ANIMATED NEURAL NETWORK HEADER -->
+<img src="https://i.pinimg.com/originals/e8/39/51/e83951590fcbd2f939e6583d73507119.gif" width="100%" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0px 4px 15px rgba(0, 229, 255, 0.3);" alt="3D AI Architecture Banner">
 
 <!-- LUXURY FONT INJECTION: Cinzel Decorative for authoritative identity -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=800&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=STEPHEN+RAJ+T" alt="Stephen Raj T" /></a>
@@ -90,22 +90,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=SECONDARY+SYSTEMS+%26+APPLIED+AI" alt="Systems Header" />
 </div>
 
-<!-- OPTIMIZED API CALLS: Removed cache busters to prevent server timeouts -->
+<!-- CACHE BUSTERS APPLIED (&v=999) to force GitHub to bypass broken cached images -->
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=MedInsight-AI&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+      <a href="https://github.com/T-Stephen/MedInsight-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=MedInsight-AI&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=999" width="100%"></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=ai-mql-engine&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+      <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=ai-mql-engine&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=999" width="100%"></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/taste-the-best"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=taste-the-best&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+      <a href="https://github.com/T-Stephen/taste-the-best"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=taste-the-best&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=999" width="100%"></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/T-Stephen/FixMyArea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=FixMyArea&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="100%"></a>
+      <a href="https://github.com/T-Stephen/FixMyArea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Stephen&repo=FixMyArea&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=999" width="100%"></a>
     </td>
   </tr>
 </table>
@@ -117,13 +117,13 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="100%" alt="Live Activity Graph" />
+<!-- CACHE BUSTERS APPLIED TO TELEMETRY -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&v=999" width="100%" alt="Live Activity Graph" />
 
 <br><br>
 
-<!-- OPTIMIZED API CALLS: Removed heavy counting logic to ensure blazing fast loading -->
-<img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="49%" alt="Live GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF" width="49%" alt="Live GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=999" width="49%" alt="Live GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&v=999" width="49%" alt="Live GitHub Streak" />
 
 <br><br>
 
@@ -132,8 +132,7 @@
 
 <br><br>
 
-<!-- OPTIMIZED API CALLS: Streamlined language calculation -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="60%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&v=999" width="60%" alt="Top Languages" />
 
 <br><br><br>
 
