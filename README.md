@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/03/fb/ec/03fbeca15c328db09a96eecbd8ba89f2.gif" width="100%" style="border-radius: 12px; margin-bottom: 30px; box-shadow: 0px 10px 40px rgba(212, 175, 55, 0.25);" alt="Elite AI Environment">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=55&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=80&repeat=false&lines=STEPHEN" alt="STEPHEN RAJ T" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=55&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=80&repeat=false&lines=STEPHEN" alt="STEPHEN" />
 </a>
 <br>
 <a href="https://git.io/typing-svg">
@@ -136,7 +136,7 @@
     <td width="50%" valign="top" style="background-color: #050505; padding: 30px; border: 1px solid #D4AF37; border-radius: 12px; box-shadow: 0px 5px 25px rgba(212, 175, 55, 0.1);">
       <h3 style="color: #F7E7CE; font-family: 'Cinzel', serif; margin-top: 0; letter-spacing: 1px;">🧠 Smart AI Assistant</h3>
       <p style="color: #E5E4E2; font-size: 14px; line-height: 1.7; font-family: 'Montserrat', sans-serif;">A generative semantic reasoning engine operating as a bridge between human natural language and complex operational database execution.</p>
-      <p style="font-size: 13px;"><b style="color: #D4AF37;">Tech Stack:</b> <span style="color: #F7E7CE;">Python, Gemini API, NLP, MongoDB</span><br>
+      <p style="font-size: 13px;"><b style="color: #D4AF37;">Tech Stack:</b> <span style="color: #F7E7CE;">Python, LLMs, NLP, MongoDB</span><br>
       <b style="color: #D4AF37;">Vision:</b> <span style="color: #F7E7CE;">Seamless human-machine cognitive pipelines.</span></p>
       <a href="https://github.com/T-Stephen/ai-mql-engine"><img src="https://img.shields.io/badge/VIEW_ARCHITECTURE-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
     </td>
@@ -159,18 +159,27 @@
 
 <br>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ 6. ADVANCED ANALYTICS (PURGED OF BROKEN APIs) ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ 6. ADVANCED ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=60&repeat=false&lines=GLOBAL+TELEMETRY+%26+ANALYTICS" alt="Analytics Header" />
 
   <br><br>
 
-  <!-- HIGHLY STABLE STREAK API -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=050505&stroke=D4AF37&ring=C1121F&fire=C1121F&currStreakNum=D4AF37&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true" width="60%" alt="GitHub Streak" />
+  <!-- GITHUB TROPHIES (Highly Stable Fallback) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=T-Stephen&theme=onedark&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+
+  <br><br>
+
+  <!-- GITHUB STATS & STREAK (Highly Stable Endpoints) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Stephen&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&icon_color=C1121F&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=050505&stroke=D4AF37&ring=C1121F&fire=C1121F&currStreakNum=D4AF37&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true" width="49%" alt="GitHub Streak" />
   
   <br><br>
   
-  <!-- HIGHLY STABLE ACTIVITY GRAPH -->
+  <!-- TOP LANGUAGES & ACTIVITY GRAPH -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Stephen&layout=compact&bg_color=050505&title_color=D4AF37&text_color=E5E4E2&hide_border=true&cache_seconds=86400" width="49%" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=D4AF37&point=C1121F&hide_border=true" width="80%" alt="Activity Graph" />
 
   <br><br>
