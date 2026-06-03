@@ -169,13 +169,13 @@
 
   <br><br>
 
-  <!-- HIGHLY STABLE STREAK API -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Stephen&background=050505&stroke=39FF14&ring=C1121F&fire=C1121F&currStreakNum=39FF14&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true&v=3" width="60%" alt="GitHub Streak" />
+  <!-- HIGHLY STABLE STREAK API (Using demolab alternative endpoint) -->
+  <img src="https://streak-stats.demolab.com/?user=T-Stephen&background=050505&stroke=39FF14&ring=C1121F&fire=C1121F&currStreakNum=39FF14&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true&v=2" width="60%" alt="GitHub Streak" />
   
   <br><br>
   
   <!-- HIGHLY STABLE ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=39FF14&point=C1121F&hide_border=true&v=3" width="80%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Stephen&bg_color=050505&color=E5E4E2&line=39FF14&point=C1121F&hide_border=true&v=2" width="80%" alt="Activity Graph" />
 
   <br><br>
 
