@@ -41,7 +41,7 @@
     <td width="55%" valign="top" style="padding: 30px;">
       <h2 style="color: #39FF14; font-family: 'Cinzel', serif; margin-top: 0; letter-spacing: 2px;">» ARCHITECTURE_OVERVIEW</h2>
       <p style="color: #E5E4E2; font-size: 15px; line-height: 1.8; font-family: 'Montserrat', sans-serif;">
-        I am a visionary <b>AI & Data Science Undergrad</b> (Class of 2027) operating with a 7.64 CGPA, deeply passionate about translating futuristic AI concepts into tangible, real-world architecture. My engineering philosophy blends elite technical execution with unbounded creativity, focusing exclusively on designing impactful technologies that redefine the boundaries of human-machine interaction.
+        I am a visionary <b>AI & Data Science Undergrad</b> (Class of 2027) operating with a 7.96 CGPA, deeply passionate about translating futuristic AI concepts into tangible, real-world architecture. My engineering philosophy blends elite technical execution with unbounded creativity, focusing exclusively on designing impactful technologies that redefine the boundaries of human-machine interaction.
       </p>
       <p style="color: #E5E4E2; font-size: 15px; line-height: 1.8; font-family: 'Montserrat', sans-serif;">
         By specializing in advanced computer vision and real-time innovation, I architect next-generation AI solutions that do not just process data, but actively perceive, decide, and optimize. I am here to turn revolutionary ideas into intelligent reality.
